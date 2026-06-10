@@ -2,7 +2,7 @@
 
 <a href="https://theaceae.org" target="_blank">
 <p align="left">
-  <img width="400" alt="collective logo" src="https://raw.githubusercontent.com/TheaceaeCollective/.github/refs/heads/main/maintainedby8Bit.png">
+  <img width="400" alt="collective logo" src="https://raw.githubusercontent.com/SolyncSoftware/.github/refs/heads/main/orange_wordmark.png">
 </p>
 </a>
 
