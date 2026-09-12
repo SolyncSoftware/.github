@@ -31,15 +31,3 @@ We operate as a **flat, member-led collective**.
 Because of our flat organizational structure, we have the freedom to design, experiment, and learn from each other. We trust people to be creative, self-sufficient, and responsible.
 
 If that sounds cool, consider **[joining us](https://solync.org/apply)**!
-
----
-
-<div align="center">
-
-Want to know more about us?
-
-[![Website](https://img.shields.io/badge/Visit%20our%20website-solync.org-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://solync.org/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nUeRyRtDYC)
-[![Apply](https://img.shields.io/badge/Join%20Solync-success?style=for-the-badge&logo=github&logoColor=white)](https://solync.org/apply)
-
-</div>
