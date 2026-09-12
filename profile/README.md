@@ -34,19 +34,6 @@ If that sounds cool, consider **[joining us](https://solync.org/apply)**!
 
 ---
 
-## Check out our projects
-
-### Porter Robinson Wiki 
-[![Visit](https://img.shields.io/badge/Visit-potaro.wiki-ff69b4?style=flat-square&logo=bookstack&logoColor=white)](https://potaro.wiki/)
-
-| Repository | Description | Stack |
-| :--- | :--- | :--- |
-| [**Frontend**](https://github.com/theaceaecollective/porter-wiki-frontend) | Front-facing Porter Robinson Wiki. This is a complete rewrite, with a new design and better navigation. | ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| [**Backend**](https://github.com/theaceaecollective/porter-wiki-backend) | Comments, better article storage, authentication via Discord (GitHub soon), and more. | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| [**Articles**](https://github.com/theaceaecollective/porter-wiki-articles) | The heart of the Porter Robinson Wiki. The articles are neatly organized and easy to write via Markdown. | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
-
----
-
 <div align="center">
 
 Want to know more about us?
